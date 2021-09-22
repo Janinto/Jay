@@ -141,6 +141,7 @@ section .text-area dl dd {
     vertical-align: middle;
     font-size: 20px;
     font-weight: 600;
+    white-space: nowrap;
     color: #555;
 }
 section .text-area p {
