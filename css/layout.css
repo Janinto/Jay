@@ -152,8 +152,8 @@ section .text-area p {
     color: #666;
 }
 .project01 .text-area p {
-    font-size: 15px;
-    line-height: 23px;
+    font-size: 20px;
+    line-height: 1.5;
 }
 section .text-area a {
     display: inline-block;
